@@ -1,0 +1,32 @@
+.loading {
+	text-align: center;
+}
+
+.error {
+	text-align: center;
+}
+
+.users-header h1 {
+  text-align: center;
+}
+
+li {
+	list-style: none;
+	margin-left: 5%;
+	margin-bottom: 1rem;
+}
+
+.btn-container {
+	text-align: center;
+}
+
+.num-btn {
+	margin-right: 1%;
+	margin-bottom: 1%;
+	font-size: 20px;
+}
+
+.immidiate-btn {
+	margin-right: 2%;
+	font-size: 20px;
+}

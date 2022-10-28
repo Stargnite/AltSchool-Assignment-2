@@ -1,0 +1,33 @@
+.about {
+	align-self: center;
+	border: 0px solid #222;
+	margin: 3rem 20%;
+	width: auto;
+	background-color: whitesmoke;
+	border-radius: 0.5rem;
+	padding: 2rem 0;
+	box-shadow: 3px 2px 18px 0px rgba(0,0,0,0.68);
+-webkit-box-shadow: 3px 2px 18px 0px rgba(0,0,0,0.68);
+-moz-box-shadow: 3px 2px 18px 0px rgba(0,0,0,0.68);
+
+}
+
+.header h1 {
+	text-align: center;
+}
+
+.text p {
+	font-size: 1.3rem;
+	padding: 0 1.2rem;
+
+}
+
+.users-btn {
+	text-align: center;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: none;
+	box-shadow: 1px 1px 1px 1px;
+	font-size: 1.5rem;
+}
